@@ -1,8 +1,8 @@
 ### Aziz Latipov
 
-Senior software engineer. Ten years in mobile, now working on **AI systems security**:
+Senior software engineer. Ten years in mobile, now working on **AI security**:
 how ensembles of language models fail, how to measure their independence,
-and what that means for the systems built on top of them.
+and what that means for the agents built on top of them.
 
 **Notes** — [alatip.github.io](https://alatip.github.io/)
 
