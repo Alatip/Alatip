@@ -1,5 +1,3 @@
-<img src="photo.jpg" width="140" align="right" alt="" />
-
 ### Aziz Latipov
 
 Senior software engineer. Ten years in mobile, now working on **AI systems security**:
