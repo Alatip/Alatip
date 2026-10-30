@@ -6,7 +6,7 @@ and what that means for the agents built on top of them.
 
 **Blog** — [alatip.github.io](https://alatip.github.io/) · ORCID [0009-0003-8938-8223](https://orcid.org/0009-0003-8938-8223)
 
-**Papers**
+**Preprints**
 
 - [Paper 2. Generative Operators in Language-Model Ensembles](https://alatip.github.io/generative-operators/) · [doi](https://doi.org/10.5281/zenodo.23768976) · [code](https://github.com/Alatip/paper-2)
 - [Paper 1. Selection Operators in Language-Model Ensembles](https://alatip.github.io/selection-operators/) · [doi](https://doi.org/10.5281/zenodo.23475205) · [code](https://github.com/Alatip/paper-1)
